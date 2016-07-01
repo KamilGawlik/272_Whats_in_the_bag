@@ -1,6 +1,8 @@
 Description
-Scrabble is a popular word game where players remove tiles with letters on them from a bag and use them to create words on a board. The total number of tiles as well as the frequency of each letter does not change between games.
-For this challenge we will be using the tile set from the English edition, which has 100 tiles total. Here's a reference for the distribution and point value of each tile.
+Scrabble is a popular word game where players remove tiles with letters on them from a bag and use them to create words on a board.
+The total number of tiles as well as the frequency of each letter does not change between games.
+For this challenge we will be using the tile set from the English edition, which has 100 tiles total.
+Here's a reference for the distribution and point value of each tile.
 Each tile will be represented by the letter that appears on it, with the exception that blank tiles are represented by underscores _.
 
 Input Description
